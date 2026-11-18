@@ -1,3 +1,6 @@
+If you have a problem or a suggestion for a change, join us on Discord
+https://discord.gg/ymm5sg664c
+
 BETTER FN 
 
 REQUIREMENTS
