@@ -1,3 +1,4 @@
+join https://discord.gg/ymm5sg664c
 BETTER FN 2.0 — Rust / Windows
 
 REQUIREMENTS
