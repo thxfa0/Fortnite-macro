@@ -1,0 +1,24 @@
+[package]
+name = "better_fn"
+version = "2.0.0"
+edition = "2021"
+
+[dependencies]
+eframe = "0.29"
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+image = { version = "0.25", default-features = false, features = ["gif"] }
+winapi = { version = "0.3", features = [
+    "winuser", "shellapi", "libloaderapi", "minwindef", "windef",
+    "synchapi", "errhandlingapi", "winerror", "processthreadsapi",
+    "winbase", "handleapi", "utilapiset", "playsoundapi"
+] }
+
+[build-dependencies]
+winresource = "0.1"
+
+[profile.release]
+opt-level = 3
+lto = true
+codegen-units = 1
+strip = true
