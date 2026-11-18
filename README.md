@@ -1,5 +1,3 @@
-join https://discord.gg/ymm5sg664c
-
 BETTER FN 
 
 REQUIREMENTS
