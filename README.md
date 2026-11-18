@@ -1,5 +1,6 @@
 join https://discord.gg/ymm5sg664c
-BETTER FN 2.0 — Rust / Windows
+
+BETTER FN 
 
 REQUIREMENTS
 - Windows 10 or 11, 64-bit
