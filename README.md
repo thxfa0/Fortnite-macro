@@ -1,4 +1,16 @@
-<img width="1426" height="798" alt="image" src="https://github.com/user-attachments/assets/21cad7a4-0918-4e60-b936-85937431708c" />
+## Screenshots
+
+<div align="center">
+ 
+> Screenshots may be different from the final version
+
+</div>
+
+<div align="center">
+
+<img width="1443" height="788" alt="image" src="https://github.com/user-attachments/assets/b235ede8-30b8-4edb-b2d9-a36cbaa32cc6" />
+<br><br>
+</div>
 If you have a problem or a suggestion for a change, join us on Discord
 https://discord.gg/ymm5sg664c
 
@@ -34,5 +46,4 @@ The application uses the standard Windows Low-Level Keyboard Hook and SendInput.
 It does not bypass or modify game protections. Windows or a game may reject
 synthetic input; there is no guarantee it will work in every game.
 BETTER FN 2.0 — Rust / Windows
-<img width="1426" height="798" alt="image" src="https://github.com/user-attachments/assets/21cad7a4-0918-4e60-b936-85937431708c" />
- 
+
